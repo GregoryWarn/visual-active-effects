@@ -1,0 +1,25 @@
+{
+  "VISUAL_ACTIVE_EFFECTS.LABELS.DISABLED": "Disabilitato",
+  "VISUAL_ACTIVE_EFFECTS.LABELS.PASSIVE": "Passivo",
+  "VISUAL_ACTIVE_EFFECTS.LABELS.SOURCE": "Origine",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.FONT_SIZE.HINT": "Modifica la dimensione del font del testo negli effetti. Predefinito: 16.",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.FONT_SIZE.NAME": "Dimensione Font",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.HIDE_DISABLED.HINT": "Se abilitato, gli effetti disabilitati non verranno mostrati.",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.HIDE_DISABLED.NAME": "Nascondi Effetti Disabilitati",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.HIDE_PASSIVE.HINT": "Se abilitato, gli effetti passivi non verranno mostrati.",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.HIDE_PASSIVE.NAME": "Nascondi Effetti Passivi",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.ICON_SIZE.HINT": "Modifica la dimensione in pixel delle icone. Predefinito: 50.",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.ICON_SIZE.NAME": "Dimensione Icone",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.MENU.TITLE": "Visual Active Effects: Configurazione Interfaccia",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.MENU.LABEL": "Configura Interfaccia",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.MENU.NAME": "Configurazione Interfaccia",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.PLAYER_CLICKS.HINT": "Se deselezionato, gli utenti non GM non potranno attivare/disattivare o eliminare effetti direttamente dal pannello.",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.PLAYER_CLICKS.NAME": "Consenti Interazione Giocatori",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.TOP_OFFSET.HINT": "Modifica lo spazio tra il pannello degli effetti e la parte superiore della finestra. Predefinito: 16.",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.TOP_OFFSET.NAME": "Offset superiore",
+  "VISUAL_ACTIVE_EFFECTS.SETTINGS.RIGHT_OFFSET": {
+    "NAME": "Offset destro",
+    "HINT": "Modifica lo spazio tra il pannello e la directory sul lato destro. Predefinito: 50."
+  },
+  "VISUAL_ACTIVE_EFFECTS.TIME.UNLIMITED": "Illimitato"
+}
